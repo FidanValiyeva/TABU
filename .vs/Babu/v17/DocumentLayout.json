@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\babu.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\babu.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\services\\abstarcts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\abstarcts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\dtos\\languages\\languagesgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\languages\\languagesgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\babu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\babu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\migrations\\20241219185843_seeddatasforlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\migrations\\20241219185843_seeddatasforlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\migrations\\babudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\migrations\\babudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\migrations\\20241219183948_createdlanguagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\migrations\\20241219183948_createdlanguagestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\desktop\\babu\\babu\\babu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguagesGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:50:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguageCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:48:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Services\\Implements\\LanguageService.cs",
+              "RelativeDocumentMoniker": "Babu\\Services\\Implements\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Services\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "Babu\\Services\\Implements\\LanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:44:55.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Services\\Abstarcts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "Babu\\Services\\Abstarcts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Services\\Abstarcts\\ILanguageService.cs",
+              "RelativeToolTip": "Babu\\Services\\Abstarcts\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:44:18.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Babu",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Babu.csproj",
+              "RelativeDocumentMoniker": "Babu\\Babu.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Babu.csproj",
+              "RelativeToolTip": "Babu\\Babu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T19:42:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Babu\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Babu\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:15:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241219185843_SeedDatasForLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Migrations\\20241219185843_SeedDatasForLanguage.cs",
+              "RelativeDocumentMoniker": "Babu\\Migrations\\20241219185843_SeedDatasForLanguage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Migrations\\20241219185843_SeedDatasForLanguage.cs",
+              "RelativeToolTip": "Babu\\Migrations\\20241219185843_SeedDatasForLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:58:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\appsettings.json",
+              "RelativeDocumentMoniker": "Babu\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\appsettings.json",
+              "RelativeToolTip": "Babu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T18:42:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241219183948_CreatedLanguagesTable.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Migrations\\20241219183948_CreatedLanguagesTable.cs",
+              "RelativeDocumentMoniker": "Babu\\Migrations\\20241219183948_CreatedLanguagesTable.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Migrations\\20241219183948_CreatedLanguagesTable.cs",
+              "RelativeToolTip": "Babu\\Migrations\\20241219183948_CreatedLanguagesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:39:48.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BabuDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:09:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Program.cs",
+              "RelativeDocumentMoniker": "Babu\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Program.cs",
+              "RelativeToolTip": "Babu\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:05:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Babu.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Babu.http",
+              "RelativeDocumentMoniker": "Babu\\Babu.http",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Babu.http",
+              "RelativeToolTip": "Babu\\Babu.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-19T18:05:56.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Entities\\Language.cs",
+              "RelativeDocumentMoniker": "Babu\\Entities\\Language.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\Entities\\Language.cs",
+              "RelativeToolTip": "Babu\\Entities\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:05:50.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BabuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\DAL\\BabuDbContext.cs",
+              "RelativeDocumentMoniker": "Babu\\DAL\\BabuDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Babu\\Babu\\Babu\\DAL\\BabuDbContext.cs",
+              "RelativeToolTip": "Babu\\DAL\\BabuDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:04:56.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

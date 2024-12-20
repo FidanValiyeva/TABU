@@ -2,6 +2,8 @@
 using Babu.DAL;
 using Babu.Services.Abstarcts;
 using Babu.Services.Implements;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Babu
@@ -21,6 +23,11 @@ namespace Babu
 
             builder.Services.AddDbContext<BabuDbContext>(x => x.UseSqlServer
             (builder.Configuration.GetConnectionString("MSSql")));
+
+            builder.Services.AddFluentValidationAutoValidation();
+            builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+
+            
             builder.Services.AddScoped<ILanguageService, LanguageService>();
 
 

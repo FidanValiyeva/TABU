@@ -14,7 +14,7 @@ namespace Babu.Services.Implements
             {
                 Code = dto.Code,
                 Name = dto.Name,
-                Icon = dto.Icon,
+                Icon = dto.IconUrl,
             });
             await _context.SaveChangesAsync();
         }

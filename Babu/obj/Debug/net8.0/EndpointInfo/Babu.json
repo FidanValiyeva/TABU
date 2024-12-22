@@ -80,7 +80,7 @@
             "type": "string",
             "nullable": true
           },
-          "icon": {
+          "iconUrl": {
             "type": "string",
             "nullable": true
           }

@@ -14,24 +14,21 @@ namespace Babu
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+
             // Add services to the container.
-
+            builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.AddControllers();
-
-
-
-
-            builder.Services.AddDbContext<BabuDbContext>(x => x.UseSqlServer
+            builder.Services.AddDbContext<BabuDbContext>(s => s.UseSqlServer
             (builder.Configuration.GetConnectionString("MSSql")));
-
             builder.Services.AddFluentValidationAutoValidation();
             builder.Services.AddValidatorsFromAssemblyContaining<Program>();
+            builder.Services.AddServices();
+            builder.Services.AddMemoryCache();
 
-            
-            builder.Services.AddScoped<ILanguageService, LanguageService>();
 
 
-              
+             
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

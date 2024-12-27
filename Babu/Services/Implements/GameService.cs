@@ -15,8 +15,7 @@ namespace Babu.Services.Implements
     {
 
         public async Task<Guid> CreateAsync(GameCreateDto dto)
-        {
-           
+        {           
             var game=_mapper.Map<Game>(dto);
             await _context.Games.AddAsync(game);
             await _context.SaveChangesAsync();
@@ -24,13 +23,13 @@ namespace Babu.Services.Implements
         }
         public async Task<GameGetDto> UpdateAsync(string code,GameCreateDto dto)
         {
-            var game = await _context.Games.FirstOrDefaultAsync(x => x.Code == code);         
+            var game = await _context.Games.FirstOrDefaultAsync(x => x.LanguageCode == code);         
             game.FailCount=dto.FailCount;
             game.SkipCount=dto.SkipCount;
             game.Time=dto.Time; 
-            game.Score=dto.Score;
+            /*game.Score=dto.Score;
             game.SuccessAnswer=dto.SuccessAnswer;   
-            game.WrongAnswer=dto.WrongAnswer;   
+            game.WrongAnswer=dto.WrongAnswer;*/   
             game.LanguageCode=dto.LanguageCode; 
             await _context.SaveChangesAsync();
             return new GameGetDto
@@ -54,10 +53,10 @@ namespace Babu.Services.Implements
             return _mapper.Map<IEnumerable<GameGetDto>>(datas);
         }
 
-        Task IGameService.CreateAsync(GameCreateDto dto)
-        {
-            throw new NotImplementedException();
-        }
+        //Task IGameService.CreateAsync(GameCreateDto dto)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public Task<GameGetDto> UpdateAsync(string code, GameUpdateDto dto)
         {
@@ -79,8 +78,6 @@ namespace Babu.Services.Implements
                 Fail = 0,
                 Skip = 0,
                 Success=0,
-
-
             };
         }
 

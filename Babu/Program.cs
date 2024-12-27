@@ -44,7 +44,32 @@ namespace Babu
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            app.UseBabuExceptionHandler();
+
+
+
+
+            //{
+            //    try
+            //    {
+            //        FutureFeature();
+            //    }
+            //    catch (NotImplementedException notImp)
+            //    {
+            //        Console.WriteLine(notImp.Message);
+            //    }
+            //}
+
+            //static void FutureFeature()
+            //{
+            //    // Not developed yet.
+            //    throw new NotImplementedException();
+            //}
+
+
+
+
+
+            /*app.UseBabuExceptionHandler();*/
 
             app.UseHttpsRedirection();
 

@@ -13,11 +13,12 @@ namespace Babu
            services.AddScoped<ILanguageService, LanguageService>();
            services.AddScoped<IWordService,WordService>();
            services.AddScoped<IWordService, WordService>();
+           services.AddScoped<IGameService, GameService>();
            return services;
         }
-        public static IApplicationBuilder UseBabuExceptionHandler(this IApplicationBuilder app)
+        /*public static IApplicationBuilder UseBabuExceptionHandler(this IApplicationBuilder app)
         {
-            app.UseExceptionHandler(
+            *//*app.UseExceptionHandler(
                 opt =>
                 {
                     opt.Run(async context =>
@@ -45,7 +46,7 @@ namespace Babu
                         }
                     });
                 });
-            return app;
-        }
+            return app;*//*
+        }*/
     }
 }

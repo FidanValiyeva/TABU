@@ -7,7 +7,7 @@ namespace Babu.Services.Abstarcts
 {
     public interface IGameService
     {
-        Task CreateAsync(GameCreateDto dto);
+        Task<Guid> CreateAsync(GameCreateDto dto);
         Task<IEnumerable<GameGetDto>> GetAllAsync();
               
         Task <GameGetDto>UpdateAsync(string code,GameUpdateDto dto);

@@ -13,11 +13,7 @@ namespace Babu.Validators.Games
                 .NotNull()
                 .Length(2)  
                 .WithMessage("olke kodu 2den az ola bilmez");
-            RuleFor(x => x.BannedWordCount)
-                .NotEmpty()
-                .WithMessage("bannanmis soz sayi bosh olmasin")
-                .NotNull()
-                .WithMessage("bannanmis soz sayi null olmasin");
+            
 
                 
                 

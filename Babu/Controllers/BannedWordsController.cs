@@ -1,6 +1,9 @@
-﻿using Babu.DTOs.Words;
+﻿using Babu.DAL;
+using Babu.DTOs.BannedWords;
+using Babu.DTOs.Languages;
 using Babu.Exceptions;
 using Babu.Services.Abstarcts;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Caching.Memory;
@@ -9,35 +12,20 @@ namespace Babu.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class WordsController(IWordService _service,IMemoryCache _cache) : Controller
+    public class BannedWordsController(IBannedWordService _service,IMemoryCache _cache) : ControllerBase
     {
-        [HttpGet]
-        public IActionResult Get(string key)
+        [HttpGet("[action]")]
+        public async Task<IActionResult> Get(string key)
         {
             return Ok(_cache.Get(key));
-        }
 
-       [HttpPost]
-        public async Task<IActionResult> Create(WordCreateDto dto)
-        {           
-            return View(await _service.CreateAsync(dto));
         }
         [HttpPost("[action]")]
-        public async Task<IActionResult> CreateMany(List<WordCreateDto> dto)
-        {
-            foreach (var item in dto)
-            {
-                await _service.CreateAsync(item);   
-            }
-           
-            return Ok();
-        }
-        [HttpPut]
-        public async Task<IActionResult> Update(string code,WordUpdateDto dto)
+        public async Task<IActionResult> Update(int id,BannedWordUpdateDto dto)
         {
             try
             {
-                await _service.UpdateAsync(dto);
+                await _service.UpdateAsync(id, dto);
                 return Ok();
             }
             catch (Exception ex)
@@ -61,8 +49,8 @@ namespace Babu.Controllers
                     });
                 }
             }
+
+
         }
-        
-       
     }
 }

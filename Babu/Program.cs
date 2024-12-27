@@ -1,9 +1,12 @@
 
 using Babu.DAL;
+using Babu.Exceptions;
 using Babu.Services.Abstarcts;
 using Babu.Services.Implements;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Diagnostics;
+using Microsoft.AspNetCore.Http.Features;
 using Microsoft.EntityFrameworkCore;
 
 namespace Babu
@@ -41,6 +44,7 @@ namespace Babu
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseBabuExceptionHandler();
 
             app.UseHttpsRedirection();
 

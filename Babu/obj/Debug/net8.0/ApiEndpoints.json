@@ -9,8 +9,24 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "Babu.Validators.Games.GameCreateDto",
+        "Type": "Babu.DTOs.Games.GameCreateDto",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Babu.Controllers.GamesController",
+    "Method": "Delete",
+    "RelativePath": "api/Games",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -85,7 +101,18 @@
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "Babu.DTOs.Languages.LanguageUpdateDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -95,8 +122,20 @@
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Babu.Controllers.WordsController",
@@ -109,6 +148,27 @@
       {
         "Name": "dto",
         "Type": "Babu.DTOs.Words.WordCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Babu.Controllers.WordsController",
+    "Method": "Update",
+    "RelativePath": "api/Words",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "Babu.DTOs.Words.WordUpdateDto",
         "IsRequired": true
       }
     ],

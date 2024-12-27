@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\TABU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\babu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\babu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\validators\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\validators\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\extensions\\iqueryableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\extensions\\iqueryableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,28 +19,92 @@
       "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\abstarcts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\abstarcts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\abstarcts\\ibannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\exceptions\\languagesexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\exceptions\\languagesexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\exceptions\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\exceptions\\gamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\games\\gameupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\games\\gameupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\validators\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\validators\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\abstarcts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\abstarcts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\validators\\games\\gamecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\validators\\games\\gamecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\configurations\\languageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\configurations\\wordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\configurations\\wordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,28 +115,68 @@
       "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\implements\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\implements\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\bannedwords\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\bannedwords\\bannedwordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\bannedwords\\bannedwordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\bannedwords\\bannedwordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\games\\gamegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\games\\gamegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\games\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\services\\abstarcts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\services\\abstarcts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\exceptions\\languagesexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\exceptions\\languagesexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\validators\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\validators\\games\\gamestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dal\\babudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\words\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\words\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\languages\\languageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\profiles\\languageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\languages\\languagesgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\languages\\languagesgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\words\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\words\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\migrations\\20241224135844_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,28 +187,12 @@
       "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\migrations\\babudbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Migrations\\20241224135650_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Babu\\Migrations\\20241224135650_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|c:\\users\\asus\\source\\repos\\tabu\\babu\\babu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4B29839F-6207-459D-8160-9E4A63524F2D}|Babu\\Babu.csproj|solutionrelative:babu\\babu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 47,
           "Children": [
             {
               "$type": "Bookmark",
@@ -143,6 +211,223 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IQueryableExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Extensions\\IQueryableExtension.cs",
+              "RelativeDocumentMoniker": "Babu\\Extensions\\IQueryableExtension.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Extensions\\IQueryableExtension.cs",
+              "RelativeToolTip": "Babu\\Extensions\\IQueryableExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:17:18.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Exceptions\\GameNotFoundException.cs",
+              "RelativeDocumentMoniker": "Babu\\Exceptions\\GameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Exceptions\\GameNotFoundException.cs",
+              "RelativeToolTip": "Babu\\Exceptions\\GameNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:02:39.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LanguageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Configurations\\LanguageConfiguration.cs",
+              "RelativeDocumentMoniker": "Babu\\Configurations\\LanguageConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Configurations\\LanguageConfiguration.cs",
+              "RelativeToolTip": "Babu\\Configurations\\LanguageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:30:33.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "Babu\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "Babu\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:26:40.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WordConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Configurations\\WordConfiguration.cs",
+              "RelativeDocumentMoniker": "Babu\\Configurations\\WordConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Configurations\\WordConfiguration.cs",
+              "RelativeToolTip": "Babu\\Configurations\\WordConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:23:42.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\BannedWordService.cs",
+              "RelativeDocumentMoniker": "Babu\\Services\\Implements\\BannedWordService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\BannedWordService.cs",
+              "RelativeToolTip": "Babu\\Services\\Implements\\BannedWordService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:10:31.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BannedWordsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\BannedWordsController.cs",
+              "RelativeDocumentMoniker": "Babu\\Controllers\\BannedWordsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\BannedWordsController.cs",
+              "RelativeToolTip": "Babu\\Controllers\\BannedWordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:09:25.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BannedWordUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\BannedWords\\BannedWordUpdateDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\BannedWords\\BannedWordUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\BannedWords\\BannedWordUpdateDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\BannedWords\\BannedWordUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:08:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BannedWordGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\BannedWords\\BannedWordGetDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\BannedWords\\BannedWordGetDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\BannedWords\\BannedWordGetDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\BannedWords\\BannedWordGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:07:48.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\IBannedWordService.cs",
+              "RelativeDocumentMoniker": "Babu\\Services\\Abstarcts\\IBannedWordService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\IBannedWordService.cs",
+              "RelativeToolTip": "Babu\\Services\\Abstarcts\\IBannedWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:05:31.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Babu\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "RelativeToolTip": "Babu\\Validators\\Games\\GameCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:35:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LanguageUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Languages\\LanguageUpdateDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Languages\\LanguageUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Languages\\LanguageUpdateDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Languages\\LanguageUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:18:47.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Games\\GameUpdateDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Games\\GameUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Games\\GameUpdateDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Games\\GameUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:18:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GameGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Games\\GameGetDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Games\\GameGetDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Games\\GameGetDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Games\\GameGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:17:59.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GameCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Games\\GameCreateDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Games\\GameCreateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Games\\GameCreateDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Games\\GameCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:17:31.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WordGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Words\\WordGetDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Words\\WordGetDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Words\\WordGetDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Words\\WordGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:44:17.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WordUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Words\\WordUpdateDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Words\\WordUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Words\\WordUpdateDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Words\\WordUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:43:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LanguagesGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "RelativeDocumentMoniker": "Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "RelativeToolTip": "Babu\\DTOs\\Languages\\LanguagesGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:04:42.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "GameStatusDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Games\\GameStatusDto.cs",
               "RelativeDocumentMoniker": "Babu\\Validators\\Games\\GameStatusDto.cs",
@@ -154,116 +439,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 19,
               "Title": "GamesController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "Babu\\Controllers\\GamesController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\GamesController.cs",
               "RelativeToolTip": "Babu\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:50:31.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T07:50:31.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "GameProfile.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Profiles\\GameProfile.cs",
               "RelativeDocumentMoniker": "Babu\\Profiles\\GameProfile.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Profiles\\GameProfile.cs",
               "RelativeToolTip": "Babu\\Profiles\\GameProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:40:35.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GameCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Games\\GameCreateDto.cs",
-              "RelativeDocumentMoniker": "Babu\\Validators\\Games\\GameCreateDto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Games\\GameCreateDto.cs",
-              "RelativeToolTip": "Babu\\Validators\\Games\\GameCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:32:30.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "GameService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\GameService.cs",
               "RelativeDocumentMoniker": "Babu\\Services\\Implements\\GameService.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\GameService.cs",
               "RelativeToolTip": "Babu\\Services\\Implements\\GameService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:27:19.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "IGameService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\IGameService.cs",
               "RelativeDocumentMoniker": "Babu\\Services\\Abstarcts\\IGameService.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\IGameService.cs",
               "RelativeToolTip": "Babu\\Services\\Abstarcts\\IGameService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:24:42.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Program.cs",
               "RelativeDocumentMoniker": "Babu\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Program.cs",
               "RelativeToolTip": "Babu\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:12:11.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Babu\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\ServiceRegistration.cs",
               "RelativeToolTip": "Babu\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBgAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:08:25.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BabuDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "DocumentIndex": 12,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "Babu\\Services\\Abstarcts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\ILanguageService.cs",
+              "RelativeToolTip": "Babu\\Services\\Abstarcts\\ILanguageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T14:51:52.208Z"
+              "WhenOpened": "2024-12-26T20:32:44.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WordService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\WordService.cs",
-              "RelativeDocumentMoniker": "Babu\\Services\\Implements\\WordService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\WordService.cs",
-              "RelativeToolTip": "Babu\\Services\\Implements\\WordService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T14:42:51.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "LanguageCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Languages\\LanguageCreateDto.cs",
               "RelativeDocumentMoniker": "Babu\\DTOs\\Languages\\LanguageCreateDto.cs",
@@ -275,19 +535,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 45,
+              "Title": "BabuDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Babu\\Migrations\\BabuDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:51:52.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "Babu\\Services\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\WordService.cs",
+              "RelativeToolTip": "Babu\\Services\\Implements\\WordService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:42:51.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "LanguageCreateDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "RelativeDocumentMoniker": "Babu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
               "RelativeToolTip": "Babu\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T14:17:17.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "WordCreateDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Validators\\Words\\WordCreateDtoValidator.cs",
               "RelativeDocumentMoniker": "Babu\\Validators\\Words\\WordCreateDtoValidator.cs",
@@ -299,43 +583,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 41,
               "Title": "WordCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Words\\WordCreateDto.cs",
               "RelativeDocumentMoniker": "Babu\\DTOs\\Words\\WordCreateDto.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DTOs\\Words\\WordCreateDto.cs",
               "RelativeToolTip": "Babu\\DTOs\\Words\\WordCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T14:13:37.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "IWordService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\IWordService.cs",
               "RelativeDocumentMoniker": "Babu\\Services\\Abstarcts\\IWordService.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Abstarcts\\IWordService.cs",
               "RelativeToolTip": "Babu\\Services\\Abstarcts\\IWordService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T14:12:32.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
               "Title": "WordsController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\WordsController.cs",
               "RelativeDocumentMoniker": "Babu\\Controllers\\WordsController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\WordsController.cs",
               "RelativeToolTip": "Babu\\Controllers\\WordsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T14:09:55.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 44,
               "Title": "20241224135844_Init.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Migrations\\20241224135844_Init.cs",
               "RelativeDocumentMoniker": "Babu\\Migrations\\20241224135844_Init.cs",
@@ -347,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 47,
               "Title": "20241224135650_Init.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Migrations\\20241224135650_Init.cs",
               "RelativeDocumentMoniker": "Babu\\Migrations\\20241224135650_Init.cs",
@@ -359,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 46,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\appsettings.json",
               "RelativeDocumentMoniker": "Babu\\appsettings.json",
@@ -371,43 +655,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 38,
               "Title": "Language.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Entities\\Language.cs",
               "RelativeDocumentMoniker": "Babu\\Entities\\Language.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Entities\\Language.cs",
               "RelativeToolTip": "Babu\\Entities\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T13:34:26.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "BannedWord.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Entities\\BannedWord.cs",
               "RelativeDocumentMoniker": "Babu\\Entities\\BannedWord.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Entities\\BannedWord.cs",
               "RelativeToolTip": "Babu\\Entities\\BannedWord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T13:28:20.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Entities\\Game.cs",
               "RelativeDocumentMoniker": "Babu\\Entities\\Game.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Entities\\Game.cs",
               "RelativeToolTip": "Babu\\Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T13:28:00.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 36,
               "Title": "Word.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Entities\\Word.cs",
               "RelativeDocumentMoniker": "Babu\\Entities\\Word.cs",
@@ -419,91 +703,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LanguageExistException.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\LanguageExistException.cs",
-              "RelativeDocumentMoniker": "Babu\\Services\\Implements\\LanguageExistException.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\LanguageExistException.cs",
-              "RelativeToolTip": "Babu\\Services\\Implements\\LanguageExistException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T12:30:43.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "LanguageService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\LanguageService.cs",
               "RelativeDocumentMoniker": "Babu\\Services\\Implements\\LanguageService.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Services\\Implements\\LanguageService.cs",
               "RelativeToolTip": "Babu\\Services\\Implements\\LanguageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T12:27:40.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "BabuDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DAL\\BabuDbContext.cs",
               "RelativeDocumentMoniker": "Babu\\DAL\\BabuDbContext.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\DAL\\BabuDbContext.cs",
               "RelativeToolTip": "Babu\\DAL\\BabuDbContext.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAIAwwDgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T12:26:55.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "LanguagesController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\LanguagesController.cs",
               "RelativeDocumentMoniker": "Babu\\Controllers\\LanguagesController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Controllers\\LanguagesController.cs",
               "RelativeToolTip": "Babu\\Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T12:26:50.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 7,
               "Title": "IBaseException.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Exceptions\\IBaseException.cs",
               "RelativeDocumentMoniker": "Babu\\Exceptions\\IBaseException.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Exceptions\\IBaseException.cs",
               "RelativeToolTip": "Babu\\Exceptions\\IBaseException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T12:12:49.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "LanguagesExistException.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Exceptions\\LanguagesExistException.cs",
               "RelativeDocumentMoniker": "Babu\\Exceptions\\LanguagesExistException.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Exceptions\\LanguagesExistException.cs",
               "RelativeToolTip": "Babu\\Exceptions\\LanguagesExistException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T12:10:41.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 0,
               "Title": "Babu.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\TABU\\Babu\\Babu.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Babu.csproj",
               "RelativeDocumentMoniker": "Babu\\Babu.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\TABU\\Babu\\Babu.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Babu.csproj",
               "RelativeToolTip": "Babu\\Babu.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-22T12:09:53.724Z"
+              "WhenOpened": "2024-12-22T12:09:53.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "LanguageProfile.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TABU\\Babu\\Profiles\\LanguageProfile.cs",
               "RelativeDocumentMoniker": "Babu\\Profiles\\LanguageProfile.cs",

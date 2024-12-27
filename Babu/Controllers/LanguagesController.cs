@@ -5,17 +5,19 @@ using Babu.Exceptions;
 using Babu.Services.Abstarcts;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Babu.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class LanguagesController(ILanguageService _service) : ControllerBase
+    public class LanguagesController(ILanguageService _service,IMemoryCache _cache) : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get(string key)
         {
-            return Ok(await _service.GetAllAsync());
+            return Ok(_cache.Get(key));
         }
         [HttpPost]
         public async Task<IActionResult> Create(LanguageCreateDto dto)
@@ -43,20 +45,21 @@ namespace Babu.Controllers
                     });  
                 }
 
-            }
+            }                         
              
-               await _service.CreateAsync(dto); 
-               return Ok();
         }
         [HttpPut]
-        public async Task<IActionResult> Update()
+        public async Task<IActionResult> Update(string code,LanguageUpdateDto dto)
         {
-            return Ok();
+            
+                await _service.UpdateAsync(code,dto);
+                     return Ok();
+                   
         }
         [HttpDelete]
-        public async Task<IActionResult> Delete()
+        public async Task Delete(string code)
         {
-            return Ok();
+            await _service.DeleteAsync(code);
         }
     }
 }

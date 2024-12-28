@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "dXp5ZJRQg76gQhAC7M106FhxPi3iSeNuyr7agmfnEzg=",
+  "Hash": "9G+++Ej/Aj0GIIykCzI7n5wUvb22GepSqTHWLX7CVtA=",
   "Source": "Babu",
   "BasePath": "_content/Babu",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
